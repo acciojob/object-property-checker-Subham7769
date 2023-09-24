@@ -10,8 +10,6 @@ for (let key1 in sampleObject) {
   return false;
 }
 
-	
-}
 
 // Do not change the code below
 const key = prompt("Enter Key.");
